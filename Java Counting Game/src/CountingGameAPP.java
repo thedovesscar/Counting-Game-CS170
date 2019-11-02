@@ -1,4 +1,3 @@
-
 public class CountingGameAPP {
 
 	public static void main(String[] args) {
